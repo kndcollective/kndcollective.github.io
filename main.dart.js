@@ -43567,12 +43567,12 @@ if(typeof o!=="number")return o.p()
 q=B.t9(T.ym(H.e([new K.D7(s,n),new T.d0(n,r*0.1,n,n),new K.EH(p,n),new T.d0(n,o*0.2,n,n),new K.H4(n)],q),C.aj,C.aK,C.a3),n)
 return B.t9(new M.la(new E.pO(0,C.r,new Q.af(1/0,56),n),new E.GL(!0,new G.m7(new V.aQ(t,t,t,t),q,C.ai,u,n),n),m,C.r,n),n)}}
 K.EL.prototype={
-$0:function(){C.Q.ft(window,"http://www.knd.world/releases","Releases")},
+$0:function(){C.Q.ft(window,"http://www.knd.world/releases/","Releases")},
 $C:"$0",
 $R:0,
 $S:0}
 K.EM.prototype={
-$0:function(){C.Q.ft(window,"http://www.knd.world/roster","Roster")},
+$0:function(){C.Q.ft(window,"http://www.knd.world/roster/","Roster")},
 $C:"$0",
 $R:0,
 $S:0}
